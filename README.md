@@ -1,4 +1,4 @@
-# plataforma-capacitacao-saude
+# plataforma-capacitacao-saúde
 Plataforma de capacitação em Saúde focada em Suporte Básico de Vida (SBV), Primeiros Socorros e Segurança no Trabalho. Inclui módulos complementares de Gestão de Situações Críticas e Biossegurança."
 # Plataforma de Capacitação em Saúde
 
