@@ -28,7 +28,7 @@ Prover uma infraestrutura digital organizada para o ensino de práticas fundamen
 • Markdown: Utilizado para a documentação técnica e organização dos módulos de ensino.)*
 
 ## 🚀🚀 CLICK NO BOTÃO DE WHATSAPP PARA + INF
-<a href="https://wa.me/258847275323?text=Olá,%20bom%20dia.%20Gostaria%20de%20obter%20informações%20sobre%20formações,%20parcerias%20institucionais."
+<a href="https://wa.me/258847275323?text=Olá,%20bom%20dia.%20Gostaria%20de%20obter%20informações%20sobre%20formações,%20deprimeiros%20socorros."
    target="_blank"
    style="position:fixed;bottom:20px;right:20px;
           background:#25D366;color:#fff;padding:15px 20px;
