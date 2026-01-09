@@ -36,5 +36,10 @@ Prover uma infraestrutura digital organizada para o ensino de práticas fundamen
           text-decoration:none;z-index:1000;">
    WhatsApp
 </a>
----
+<a href="https://wa.me/258847275334?text=Olá!%0AGostaria%20de%20solicitar%20informações%20sobre%20formações%20em%20primeiros%20socorros%20e%20capacitação%20técnica%20em%20saúde.%0AAgradeço%20o%20contacto."
+   target="_blank"
+   style="background:#25D366;color:#fff;padding:14px 28px;
+   text-decoration:none;border-radius:4px;font-size:1.05em;margin:5px;display:inline-block;">
+   WhatsApp – Solicitar Formação
+</a>
 Desenvolvido por **edioarota4-maker**
