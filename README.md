@@ -29,9 +29,4 @@ Prover uma infraestrutura digital organizada para o ensino de práticas fundamen
 • Git & GitHub: Controle de versão e hospedagem do código-fonte.
 • Markdown: Utilizado para a documentação técnica e organização dos módulos de ensino.)*
 
-## 🚀 Como Executar o Projeto
-1. Clone o repositório: `git clone https://github.com/seu-usuario/nome-do-repo.git`
-2. Abra o arquivo `index.html` no seu navegador.
-
----
 Desenvolvido por **edioarota4-maker**
